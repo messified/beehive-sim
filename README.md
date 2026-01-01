@@ -2,7 +2,7 @@
 
 A self-contained, offline HTML visual simulation of a beehive “building” outward in **hexagonal cells**, with **worker-bee paths** and **honey storage** filling over time. Includes mobile-optimized controls with a **show/hide** toggle and a **fixed auto-sized HUD/counter panel**.
 
-* Demo (honeycomb)[https://s3.us-east-1.amazonaws.com/jessereese.com/honeycomb.html]
+* Demo [honeycomb](https://s3.us-east-1.amazonaws.com/jessereese.com/honeycomb.html)
 
 ## Files
 
